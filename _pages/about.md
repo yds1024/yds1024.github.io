@@ -12,8 +12,8 @@ Dasen Yan, male, graduated from Shenzhen University in 2020 with a Master's degr
 Educational Background
 ======
 
-- **September 2017 - June 2020** Shenzhen University | Computer Science and Technology | Master's Degree
-- **September 2013 - June 2017** Wuyi University | Computer Science and Technology | Bachelor's Degree
+- **September 2017 - June 2020** Shenzhen University, Computer Science and Technology, Master's Degree
+- **September 2013 - June 2017** Wuyi University, Computer Science and Technology, Bachelor's Degree
 
 
 
